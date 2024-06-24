@@ -8,7 +8,7 @@ const Header = ({ user }) => {
       <h1>PIZZA DAY</h1>
       <nav className="nav">
         <div className="nav-left">
-          <Link to="/" className="nav-link">dfdfPizza</Link>
+          <Link to="/" className="nav-link">Pizza</Link>
           <Link to="/cart" className="nav-linkdelete"><AddShoppingCartIcon /></Link>
         </div>
         <div className="nav-right">
